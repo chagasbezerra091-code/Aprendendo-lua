@@ -10,4 +10,4 @@ enter_to_normal_mode = "3",
 enter_to_script_executor_mode = "4"
 print("Enter in mode...")
 --info
-package "com.cmod.main"
+package "com.vmod.main"
