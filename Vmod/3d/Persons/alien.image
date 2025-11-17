@@ -1,0 +1,22 @@
+39293930,29392949,2939492,992939,
+2994,9394930,92949,9393949,
+eyes,30392,293929,
+29239929,293992,
+//*@ Others
+29499,29393920,2939929, //Braços
+293939,939392,22949, //mão
+29929,299299,92949, //corpo
+#== Pernas ==#
+0xFFFF,0x0001,0x8293,0x3883,
+0xFFFF,0x9293,0x2949,0x9293
+#== Pé ==#
+0xFFFF #== parte da assinatura image ==#
+0xFFFF #== parte da assinatura image ==#
+0xFFFF #== parte da assinatura image ==#
+0x9293 #== parte da assinatura image ==#
+0x2929 #== parte da assinatura image ==#
+2949,29392,220492,29392,
+29325,29492,29492,39492,
+29439,393932,299392,29329,3939,
+2939293,3939392,2939339
+signature: ALIEN
